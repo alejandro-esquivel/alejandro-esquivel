@@ -1,10 +1,6 @@
-# Hi there 👋
+I'm Alejandro Esquivel, an aspiring web developer currently studying a web development degree in Spain.
 
-Front-end web developer living in Spain.
-
-
-
-
+[LinkedIn Profile](https://www.linkedin.com/in/alejandro-esquivel-rodriguez)
 
 
 
