@@ -1,5 +1,22 @@
 # Hi there 👋
 
+Front-end web developer living in Spain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **aleaallee/aleaallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
