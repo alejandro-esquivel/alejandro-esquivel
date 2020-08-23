@@ -1,4 +1,4 @@
-I'm Alejandro Esquivel, an aspiring web developer currently studying a web development degree in Spain.
+I'm Alejandro , an aspiring web developer currently studying a web development degree in Spain.
 
 [LinkedIn Profile](https://www.linkedin.com/in/alejandro-esquivel-rodriguez)
 
