@@ -1,5 +1,12 @@
 I'm Alejandro , a  web developer currently loooking for work in Spain.
 
+My knowledge is the following:
+- Development of front-end apps using HTML5, CSS3, SCSS, Angular and Vue
+- Development of back-end using PHP and Laravel.
+- Database administration with MariaDB, MySQL and Oracle SQL.
+- Linux server and services administration.
+- Git version control with Github and Gitlab.
+
 [LinkedIn Profile](https://www.linkedin.com/in/alejandro-esquivel-rodriguez)
 
 
