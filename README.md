@@ -1,4 +1,4 @@
-I'm Alejandro , a  web developer currently loooking for work in Spain.
+I'm Alejandro , a  web developer currently looking for work in Spain.
 
 My knowledge is the following:
 - Development of front-end apps using HTML5, CSS3, SCSS, Angular and Vue
