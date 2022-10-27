@@ -1,11 +1,10 @@
-I'm Alejandro , a  web developer currently looking for work in Spain.
+I'm Alex, a  front-end developer.
 
-My knowledge is the following:
-- Development of front-end apps using HTML5, CSS3, SCSS, Angular and Vue
-- Development of back-end using PHP and Laravel.
-- Database administration with MariaDB, MySQL and Oracle SQL.
-- Linux server and services administration.
-- Git version control with Github and Gitlab.
+Knowledge:
+- Front-end: HTML5, CSS3, SCSS, Angular, Vue and TailwindCSS
+- Back-end: PHP, Laravel & SQL.
+- Linux server administration and bash.
+- Git version control.
 
 [LinkedIn Profile](https://www.linkedin.com/in/alejandro-esquivel-rodriguez)
 
@@ -31,6 +30,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
