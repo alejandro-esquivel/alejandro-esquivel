@@ -1,7 +1,7 @@
 I'm Alex, a  front-end developer.
 
 Knowledge:
-- Front-end: HTML5, CSS3, SCSS, Angular, Vue and TailwindCSS
+- Front-end: HTML5, CSS3, SCSS, TailwindCSS, Javascript and Vue & React. 
 - Back-end: PHP, Laravel & SQL.
 - Linux server administration and bash.
 - Git version control.
