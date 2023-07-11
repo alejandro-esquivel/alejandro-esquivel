@@ -1,7 +1,7 @@
 ## Hi there!, I'm Alex.
 
 
-![](https://i.imgur.com/YGRwvyL.png)
+![](https://i.imgur.com/TOMywsR.png)
 
 
 I'm a front-end developer with a passion for creating beautiful and responsive web applications. I have experience working with HTML, CSS, and JavaScript, as well as popular front-end frameworks like Vue and React. I'm also familiar with TailwindCSS, a utility-first CSS framework that helps me build custom designs quickly and efficiently.
