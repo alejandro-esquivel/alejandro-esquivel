@@ -1,4 +1,6 @@
-Hi there! I'm Alex, a front-end developer with a passion for creating beautiful and responsive web applications. I have experience working with HTML, CSS, and JavaScript, as well as popular front-end frameworks like Vue and React. I'm also familiar with TailwindCSS, a utility-first CSS framework that helps me build custom designs quickly and efficiently.
+## Hi there!, I'm Alex.
+
+I'm a front-end developer with a passion for creating beautiful and responsive web applications. I have experience working with HTML, CSS, and JavaScript, as well as popular front-end frameworks like Vue and React. I'm also familiar with TailwindCSS, a utility-first CSS framework that helps me build custom designs quickly and efficiently.
 I love learning new things and staying up-to-date with the latest web development trends and technologies. When I'm not coding, you can find me exploring new hiking trails or trying out new recipes in the kitchen.
 Feel free to check out my GitHub repositories to see some of my recent projects. If you have any questions or just want to say hi, feel free to reach out to me on LinkedIn. I'm always happy to connect with other developers and share ideas!
 
