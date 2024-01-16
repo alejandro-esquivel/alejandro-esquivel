@@ -19,12 +19,12 @@ function sendSMS(string $SENDER_EMAIL, string $RECIPIENT_EMAIL): Response
     $body = [
         "Messages" => [
             "From" => [
-                "Email" => "yoquiale@gmail.com",
+                "Email" => "my_mail@gmail.com",
                 "Name" => "Esquivel"
             ],
             "To" => [
                 [
-                    "Email" => "yoquiale@gmail.com",
+                    "Email" => "to_mail@gmail.com",
                     "Name" => "Alejandro",
                 ]
             ],
@@ -47,12 +47,12 @@ function sendSMS(string $SENDER_EMAIL, string $RECIPIENT_EMAIL): Response {
     "Messages" => [
       [ //Este array
         "From" => [
-          "Email" => "yoquiale@gmail.com",
+          "Email" => "my_mail@gmail.com",
           "Name" => "Esquivel"
         ],
         "To" => [
           [
-            "Email" => "yoquiale@gmail.com",
+            "Email" => "to_mail@gmail.com",
             "Name" => "Alejandro",
           ]
         ],
